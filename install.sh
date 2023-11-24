@@ -20,10 +20,10 @@ else
 fi
 
 
-g++ main.cpp -o trgit
+g++ main.cpp -o minigit
 
 echo compiled successfully
 
-mv trgit ~/bin/trgit
+mv minigit ~/bin/minigit
 
-echo trgit-Version Control Successfully installed in your Machine!!!
+echo minigit installed successfully in your Machine!!!
